@@ -1,4 +1,4 @@
-from library import book_details
+from book import book_details
 
 def test_book_details():
     expected_output = (
